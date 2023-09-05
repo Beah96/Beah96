@@ -1,14 +1,18 @@
 ### Hello, World! I'm Beah 👋
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Beah96&data=followers,repositories,stars,commits&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
-
 💻 FullStack Developer in formation at Kenzie Academy Brasil 
 
 📚 Graduated in Foreign Relations at the University of Brasilia
 
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,html,CSS,json,postgresql,mysql&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=react,next,tailwind,express&theme=carbon)](https://github.com/Jurredr/github-widgetbox)
+
+
 📫 How to reach me:
     📧 E-mail: <a href="bea.beatrizmendes60@gmail.com">bea.beatrizmendes60@gmail.com</a>
     :spiral_notepad: LinkedIn: <a href="www.linkedin.com/in/beatriz-ribeiro1996">Beatriz Ribeiro</a>
+
+
 
 
 
